@@ -18,19 +18,6 @@ public class CheckNumbers {
 			System.out.println( "The Given Number is Neither Positive nor Negative");
 		}
 			
-		}
-  
-  /*int n = 123;
+		}	
 	
-	if(n > 0) {
-		
-		System.out.println( "The Given Number is Positive");
-	}else if (n < 0) {
-		System.out.println( "The Given Number is Negative");
-	}else {
-		System.out.println( "The Given Number is Neither Positive nor Negative");
-	}
-		
-	} */	
-		
 }
